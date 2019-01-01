@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background-color: #211f1f;
+  color: #ffffff;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border-style: none;
+}
+
+#deeplink-container {
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 800;
+}
+
+#deeplink-subtitle {
+  margin-top: 3px;
+  font-size: 0.8em;
+  color: #aaaaaa;
+}
+
+#app-icon {
+  border-radius: 10px;
+  margin: 8px;
+  width: 72px;
+}
+
+@media (min-width: 481px) {
+  #deeplink-container {
+    width: 50%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  #deeplink-container {
+    width: 80%;
+  }
+}
