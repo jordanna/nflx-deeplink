@@ -10,6 +10,6 @@ q | Query such as a corresponding numeric identifier
 
 ## Examples
 
-Details: [Taylor Swift reputation Stadium Tour](https://jordanna.github.io/nflx-deeplink/?t=Taylor%20Swift%20reputation%20Stadium%20Tour&a=title&q=81026251)
-Watch: [Black Mirror: Bandersnatch](https://jordanna.github.io/nflx-deeplink/?t=Black%20Mirror:%20Bandersnatch&a=watch&q=80988062)
-Browse: [New Year's Eve Countdown](https://jordanna.github.io/nflx-deeplink/?t=New%20Year%27s%20Eve%20Countdown&a=genre&q=1647403)
+- Details: [Taylor Swift reputation Stadium Tour](https://jordanna.github.io/nflx-deeplink/?t=Taylor%20Swift%20reputation%20Stadium%20Tour&a=title&q=81026251)
+- Watch: [Black Mirror: Bandersnatch](https://jordanna.github.io/nflx-deeplink/?t=Black%20Mirror:%20Bandersnatch&a=watch&q=80988062)
+- Browse: [New Year's Eve Countdown](https://jordanna.github.io/nflx-deeplink/?t=New%20Year%27s%20Eve%20Countdown&a=genre&q=1647403)
